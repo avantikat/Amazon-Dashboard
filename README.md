@@ -25,6 +25,15 @@
 5. **DAX Calculations:** Implemented DAX functions for performing complex calculations and analyses.
 6. **Dashboard Publishing:** Published the dashboard to Power BI Service for sharing with stakeholders.
 
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository: `git clone [repository_link]`
+2. Open the project in Power BI Desktop.
+3. Explore the dashboard visuals and interact with the slicers for filtering options.
+4. Review the documentation for additional insights and details.
+
 
 ## Acknowledgments
 
